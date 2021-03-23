@@ -125,9 +125,9 @@ def chat():
         print(random.choice(responses))
 
 
-#chat()
+#chat() (uncomment this if you do not wish to install Discord, and use Python Terminal)
 
-import discord
+import discord #Comment this whole portion out if you do not wish to set up Discord. 
 
 
 class MyClient(discord.Client):
