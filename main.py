@@ -160,4 +160,4 @@ class MyClient(discord.Client):
 
 
 client = MyClient()
-client.run('ODIzMDQ4NjY1MDY0ODAwMzA4.YFbJzQ.EqxVPnvr4OkdvCjhR-QEkfrcPc8')
+client.run('BOT_TOKEN') #Whoops! That would've been bad posting the key... lol
