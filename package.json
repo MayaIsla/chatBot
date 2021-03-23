@@ -1,0 +1,32 @@
+{"intents": [
+        {"tag": "greeting",
+         "patterns": ["Hi", "How are you", "Is anyone there?", "Hello", "Good day", "Wassup", "Hey mamas", "Heyyyyy", "HEY"],
+         "responses": ["Hello, thanks for visiting", "Good to see you again", "Hi there, how can I help?", "Hi bby", "Hiiii :3"],
+         "context_set": ""
+        },
+        {"tag": "goodbye",
+         "patterns": ["Bye", "See you later", "Goodbye"],
+         "responses": ["See you later, thanks for visiting", "Have a nice day", "Bye! Come back again soon."]
+        },
+        {"tag": "thanks",
+         "patterns": ["Thanks", "Thank you", "That's helpful", "Thank u", "Tanks"],
+         "responses": ["Happy to help!", "Any time!", "My pleasure", "ur welcome", "Np!", "NP! ;)"]
+        },
+        {"tag": "gaems",
+         "patterns": ["FPS", "Rhythm games", "Strategy", "Indie", "Platfrom", "Indie", "Classic", "RPG", "Simulation", "First Person Shooter", "MMO", "Sports" ],
+         "responses": ["Very interesting... adding to database. (Ask Pick a game for me!)", "Ahh, I see. Adding to list!"]
+        },
+        {"tag": "payments",
+         "patterns": ["Do you take credit cards?", "Do you accept Mastercard?", "Are you cash only?" ],
+         "responses": ["We accept VISA, Mastercard and AMEX", "We accept most major credit cards"]
+        },
+        {"tag": "Present",
+         "patterns": ["Are you there?", "Are you okay?", "?"],
+         "responses": ["Ye.", "im ok...", "no..."]
+        },
+       {"tag": "gameList",
+         "patterns": ["Based on my criteria, what games should I play?", "Pick a game for me!", "What game should I play?"],
+         "responses": ["7 Days to Die", "7 Days to Die" , "A Plague Tale: Innocence", "Absolver" ,"ACE COMBAT™ 7: SKIES UNKNOWN" ,"Age of Wonders III", "Age of Wonders: Planetfall", "AI: The Somnium Files",  "Aion™" , "Albino Lullaby: Episode 1" , "Albion Online" ,"Amazing Cultivation Simulator" , "American Truck Simulator","Ancestors Legacy" ,"Anno 1800™", "AO International Tennis","Apex Legends™","Apollo 11 Lunar Landing Demo","Argo","ARK: Survival Evolved" ,"ARK: Survival Of The Fittest","Arma 3","Armello","Armored Warfare","Artifact","Assetto Corsa","Asterix & Obelix XXL 3 - The Crystal Menhir","ASTRONEER","ATLAS","ATOM RPG","ATOMEGA™","AVICII Invector","Battlefleet Gothic", "Armada 2", "Battlerite", "Battletech","Bear With Me: The Lost Robots","Besiege","BioShock Infinite","BioShock™ 2 Remastered","BioShock™ Remastered","Black Desert Online","Black Future '88","Black Squad","BLACKSAD: Under the Skin","Blackwake","Blair Witch","BlazBlue: Cross Tag Battle","Borderlands 2","Borderlands 3","Brawlhalla" ,"Brothers: A Tale of Two Sons","Call of Cthulhu®","Call of Duty: World at War","Call of Duty® 4: Modern Warfare®","Call of Duty®: Black Ops 4","Call of Duty®: Black Ops III", "CardLife: Cardboard Survival","Catherine Classic","Celeste","Chernobylite","Chivalry: Medieval Warfare","Cities: Skylines","Claybook","Clicker Heroes","Clicker Heroes 2","Closers","Commandos","Company of Heroes","Conan Exiles","Conception PLUS: Maidens of the Twelve Stars" ,"Construction Simulator","Constructor Plus","Cooking Simulator","Counter-Strike","Crash Bandicoot™", "N. Sane Trilogy","Crossfire","Crossout","Crusader Kings II","Crying Suns","Cuisine Royale","Cultist Simulator","Cuphead","Dakar 18","DARK SOULS™","Darkest Dungeon®","Darwin Project","Dauntless"]
+        }
+   ]
+}
