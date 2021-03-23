@@ -12,3 +12,5 @@ chatBot creates a knowledge base and picks the best possible game based on the d
 
 ![bot](https://user-images.githubusercontent.com/43270477/112089686-63ebb100-8b4f-11eb-8d16-7ed25db40b60.png)
 
+First, be respectful of course. Say Hi to it! Be weird, she likes that. I've made a list of responses, try to catch all of them. If she doesn't understand you, she will tell you.
+Then this is where the fun happens, basically give it a game genre. The chatBot then queues a list that you give it. Whether it's Indie, FPS, or simulator, the world is your oyster. Once you're done listing genres, ask: ["Based on my criteria OR what games should I play?" OR "Pick a game for me!" OR "What game should I play?"]. The bot will then pick a game for you based on your listings! Cool huh? Also once more, don't be rude. Say thanks and your goodbyes. :D HAVE FUN!!
