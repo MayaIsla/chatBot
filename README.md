@@ -16,6 +16,8 @@ The software prompts you to give descriptions of genre that the user would like 
 
 Once you have entered the genres. It will prompt you to ask "What game should I play?" Based on softMax and epoch techniques for giving the highest probablistic value of the most recommended game in the slot to begin with. A game will be presented for you to play. 
 
+![TrainingData](https://user-images.githubusercontent.com/43270477/112183808-d72b0c80-8bbb-11eb-8003-f165dab81d3f.png)
+
 The chatbot can have very limited conversation such as "How is your day?" or giving it a simple "Hello" or "Goodbye." One of the weaknesses are it's limited conversation. Again, this is a work in progress. 
 
 Another issue with the Discord API, is that there is no real way to quit until the runtime python system is turned off. This is not an issue with terminal however, as "QUIT" and "EXIT" are options. Discord API will only run while Python runtime is turned on and compiling. 
